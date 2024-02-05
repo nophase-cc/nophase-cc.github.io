@@ -25,9 +25,9 @@ body {
     background: #0e0e0e;
     background-image: url("images/hearts-fractal.png");
     color: $text-color;
-    max-width: 800px;
-    margin: 0 auto;
-    margin-top: 10%;
+    max-width: 600px;
+    margin: 10%;
+    // margin-top: 10%;
     text-rendering: optimizeLegibility;
     border: 1px solid $h-color;
     // border-top: none;
@@ -49,7 +49,7 @@ h1,h3,h4,h5,h6 {
 h2 {
     color: $h-color;
     font-size: 120px;
-    font-weight: bold;
+    font-weight: 900;
     font-style: italic;
 }
 
