@@ -27,7 +27,7 @@ body {
     color: $text-color;
     max-width: 800px;
     margin: 0 auto;
-    margin-top: 10 auto;
+    margin-top: 10% auto;
     text-rendering: optimizeLegibility;
     border: 1px solid $h-color;
     // border-top: none;
@@ -159,3 +159,8 @@ footer {
     }
 }
 
+.testtext {
+    margin-left: auto;
+    margin-right: auto;
+    size: 50px;
+}
