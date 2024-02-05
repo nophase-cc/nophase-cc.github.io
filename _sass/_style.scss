@@ -25,12 +25,14 @@ body {
     background: #0e0e0e;
     background-image: url("images/hearts-fractal.png");
     color: $text-color;
-    max-width: 65%;
-    // margin: 10%;
+    // max-width: 650px;
+    margin: 10%;
     margin-top: 10%;
     margin-bottom: 10%;
     text-rendering: optimizeLegibility;
     border: 1px solid $h-color;
+    float: center;
+    justify-content: center;
     // border-top: none;
 
     padding: 0 20px;
