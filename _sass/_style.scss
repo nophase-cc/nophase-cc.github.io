@@ -131,8 +131,9 @@ blockquote {
     padding: 2px 15px;
     margin-bottom: 1em;
     left: 50%;
-    margin-left: -2%;
+    margin-left: -80px;
     margin-top: 1em;
+    position: relative;
 
     h1:before{
         content: "";
