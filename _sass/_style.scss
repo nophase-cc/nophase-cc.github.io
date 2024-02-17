@@ -130,6 +130,10 @@ blockquote {
     border: 1px dashed;
     padding: 2px 15px;
     margin-bottom: 1em;
+    left: 50%;
+    margin-left: -2%;
+    margin-top: 1em;
+
     h1:before{
         content: "";
     }
