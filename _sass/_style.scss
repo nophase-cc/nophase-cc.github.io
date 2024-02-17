@@ -71,13 +71,14 @@ h4:before{
 }
 a {
     // color: $h-color;
-    color: #444;
+    color: #0e0e0e;
     text-decoration: none;
     border-bottom: 1px solid;
     &:hover {
         // background-color: $h-color; 
-        background-color: black;
-        color: black;
+        background-color: #0e0e0e;
+        // color: $h-color;
+        color: #0e0e0e;
         
     }
 }
