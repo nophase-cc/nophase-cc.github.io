@@ -138,7 +138,7 @@ blockquote {
     margin-top: 1em;
     position: relative;
     background-color: $h-color;
-    color: black;
+    color: #030303 !important;
 
     h1:before{
         content: "";
@@ -154,6 +154,7 @@ blockquote {
     display: block;
     font-size: 5em;
     margin: 0;
+    color: #030303;
     &:after {
         content: "";
     }
