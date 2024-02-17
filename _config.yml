@@ -2,7 +2,7 @@
 
 title: NOPHASE.CC
 
-permalink: /
+permalink: /:title
 
 #baseurl: /dark-side
 
