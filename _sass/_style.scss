@@ -185,6 +185,7 @@ footer {
 }
 
 .post-title {
+    border: 1px dashed $h-color;
     h2:hover {
         color: $text-color;
     }
