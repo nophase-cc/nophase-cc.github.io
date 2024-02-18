@@ -185,7 +185,6 @@ footer {
 }
 
 .post-title {
-    border: 1px dashed $h-color;
     h2:hover {
         color: $text-color;
     }
@@ -197,6 +196,10 @@ footer {
     float: center;
     justify-content: center;
     size: 300px;
+}
+
+.devicebox {
+    border: 1px dashed #747642;
 }
 
 
